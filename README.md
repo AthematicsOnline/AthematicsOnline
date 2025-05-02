@@ -1,7 +1,7 @@
 ##Athematics
 
 ## 🚀 About Me
-Hello! I'm Athematics, a passionate cybersecurity analyst and educator. I specialize in cloud security, ethical hacking, and teaching the next generation of tech enthusiasts. I enjoy solving complex security challenges and deploying scalable solutions in cloud environments like AWS and Kubernetes.
+Hello! I'm Athematics, a passionate cybersecurity analyst and Tech educator. I specialize in cloud security, ethical hacking, and teaching the next generation of tech enthusiasts. I enjoy solving complex security challenges and deploying scalable solutions in cloud environments like AWS and Kubernetes.
 
 ## Skills & Expertise
 - 🔐 Cybersecurity & Ethical Hacking (Nmap, Wireshark, Linux, Wazuh, etc.)
